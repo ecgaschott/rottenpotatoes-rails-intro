@@ -1,3 +1,20 @@
+What did we learn while doing this assignment?
+    
+    
+What additional sources did we use?
+   
+    
+How much time did we spend on each part of the assignment?
+    Chapter 4: 1 hour 15 min
+    Set up and deploying to Heroku: 1 hour 45 min
+    
+What did we get stuck on?
+
+Connecting to Heroku :(
+
+
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
