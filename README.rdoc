@@ -7,6 +7,7 @@ What additional sources did we use?
 How much time did we spend on each part of the assignment?
     Chapter 4: 1 hour 15 min
     Set up and deploying to Heroku: 1 hour 45 min
+    Problem 1: Tuesday, 9/22: 45 min
     
 What did we get stuck on?
 
